@@ -1,9 +1,9 @@
 {
-    "clientId": "1229420362715103333",
-    "guildId": "581038074494976000",
-    "token": "MTIyOTQyMDM2MjcxNTEwMzMzMw.GSqRV-.I_-Qy_TLye2p8BrpJonzOnVJ9-b4Khz6aUc0B8",
-    "reviewChannelId": "581038074494976002",
-    "webhookId": "https://discord.com/api/webhooks/1229422213439164476/1aCb-mGqQDB0CmG4ma03943YLQvjKdQsMG2k9pgnV2uI1kbV_cSsSE-QghtKUFc8bXJQ",
-    "roleId": "581039457315192842"
+    "clientId": "Client ID på botten, ogs kaldet Application ID",
+    "guildId": "Guild ID på din server",
+    "token": "Din bots token",
+    "reviewChannelId": "Kanalen hvor ansøgningerne skal sendes",
+    "webhookId": "Ikke i brug",
+    "roleId": "Rolle id man skal få hvis man bliver accepteret"
   }
   
